@@ -1,4 +1,4 @@
-# fast-typing
+# Fast Typing
 
 ## Project setup
 ```
